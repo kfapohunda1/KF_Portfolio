@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning on </title>
+    <link>https://kfapohunda1.github.io/KF_Portfolio/categories/machine-learning/</link>
+    <description>Recent content in machine learning on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://kfapohunda1.github.io/KF_Portfolio/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Loan Classifier</title>
+      <link>https://kfapohunda1.github.io/KF_Portfolio/portfolio/project-5/</link>
+      <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://kfapohunda1.github.io/KF_Portfolio/portfolio/project-5/</guid>
+      <description>Project Details Imported, processed and cleaned loan data for analysis Performed exploratory data analysis with visual and descriptive statistics to better understand dataset Classified loan data using machine learning algorithms such as K Nearest Neighbor(KNN), Decision Tree, Support Vector Machine and Logistic regression Evaluated the accuracy of machine learning algorithms using f1_score and jaccard similarity coefficient score </description>
+    </item>
+    
+  </channel>
+</rss>

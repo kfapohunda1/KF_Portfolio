@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://kfapohunda1.github.io/KF_Portfolio/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://kfapohunda1.github.io/KF_Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>model development</title>
+      <link>https://kfapohunda1.github.io/KF_Portfolio/categories/model-development/</link>
+      <pubDate>Wed, 19 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://kfapohunda1.github.io/KF_Portfolio/categories/model-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visualization</title>
+      <link>https://kfapohunda1.github.io/KF_Portfolio/categories/visualization/</link>
+      <pubDate>Wed, 19 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://kfapohunda1.github.io/KF_Portfolio/categories/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://kfapohunda1.github.io/KF_Portfolio/categories/machine-learning/</link>
+      <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://kfapohunda1.github.io/KF_Portfolio/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web development</title>
+      <link>https://kfapohunda1.github.io/KF_Portfolio/categories/web-development/</link>
+      <pubDate>Sat, 10 Apr 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://kfapohunda1.github.io/KF_Portfolio/categories/web-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

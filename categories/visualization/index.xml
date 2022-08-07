@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visualization on </title>
+    <link>https://kfapohunda1.github.io/KF_Portfolio/categories/visualization/</link>
+    <description>Recent content in visualization on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://kfapohunda1.github.io/KF_Portfolio/categories/visualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cluster Neighborhoods</title>
+      <link>https://kfapohunda1.github.io/KF_Portfolio/portfolio/project-1/</link>
+      <pubDate>Wed, 19 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://kfapohunda1.github.io/KF_Portfolio/portfolio/project-1/</guid>
+      <description>Project Details Scraped webpages and parse HTML code using the Python package Beautifulsoup.</description>
+    </item>
+    
+    <item>
+      <title>Dashboard</title>
+      <link>https://kfapohunda1.github.io/KF_Portfolio/portfolio/project-4/</link>
+      <pubDate>Sat, 10 Apr 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://kfapohunda1.github.io/KF_Portfolio/portfolio/project-4/</guid>
+      <description>Project Details Imported and cleaned airline flights data for exploratory analysis Created interactive dashboard of US airline flight using dash, ggplot and plotly on Python Monitors and report on US domestic airline flights performance the following key reporting items: 1.</description>
+    </item>
+    
+    <item>
+      <title>Stock Visualization</title>
+      <link>https://kfapohunda1.github.io/KF_Portfolio/portfolio/project-2/</link>
+      <pubDate>Sat, 20 Mar 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://kfapohunda1.github.io/KF_Portfolio/portfolio/project-2/</guid>
+      <description>Project Details Used ticker functions in python library to directly extract stock data from ticker reports Scraped several webpages for stocks and share prices not available via stock API using beautiful soup Cleaned, manipulated and structured raw stock data in python dataframe for analysis Developed GameStop and Tesla&amp;rsquo;s stock dashboard using the plotly library </description>
+    </item>
+    
+  </channel>
+</rss>

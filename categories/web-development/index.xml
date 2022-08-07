@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web development on </title>
+    <link>https://kfapohunda1.github.io/KF_Portfolio/categories/web-development/</link>
+    <description>Recent content in web development on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Apr 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://kfapohunda1.github.io/KF_Portfolio/categories/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dashboard</title>
+      <link>https://kfapohunda1.github.io/KF_Portfolio/portfolio/project-4/</link>
+      <pubDate>Sat, 10 Apr 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://kfapohunda1.github.io/KF_Portfolio/portfolio/project-4/</guid>
+      <description>Project Details Imported and cleaned airline flights data for exploratory analysis Created interactive dashboard of US airline flight using dash, ggplot and plotly on Python Monitors and report on US domestic airline flights performance the following key reporting items: 1.</description>
+    </item>
+    
+  </channel>
+</rss>

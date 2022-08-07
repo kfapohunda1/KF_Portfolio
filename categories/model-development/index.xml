@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>model development on </title>
+    <link>https://kfapohunda1.github.io/KF_Portfolio/categories/model-development/</link>
+    <description>Recent content in model development on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://kfapohunda1.github.io/KF_Portfolio/categories/model-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cluster Neighborhoods</title>
+      <link>https://kfapohunda1.github.io/KF_Portfolio/portfolio/project-1/</link>
+      <pubDate>Wed, 19 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://kfapohunda1.github.io/KF_Portfolio/portfolio/project-1/</guid>
+      <description>Project Details Scraped webpages and parse HTML code using the Python package Beautifulsoup.</description>
+    </item>
+    
+    <item>
+      <title>Price Predictor</title>
+      <link>https://kfapohunda1.github.io/KF_Portfolio/portfolio/project-3/</link>
+      <pubDate>Thu, 01 Apr 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://kfapohunda1.github.io/KF_Portfolio/portfolio/project-3/</guid>
+      <description>Project Details Scraped for King County&amp;rsquo;s housing data and performed data wrangling for analysis Performed data wrangling, exploratory data analysis, model development, and model evaluation and refinement.</description>
+    </item>
+    
+    <item>
+      <title>Speech to Text</title>
+      <link>https://kfapohunda1.github.io/KF_Portfolio/portfolio/project-6/</link>
+      <pubDate>Fri, 12 Feb 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://kfapohunda1.github.io/KF_Portfolio/portfolio/project-6/</guid>
+      <description>Project Details Converted an audio file of an English speaker to text using Watson speech to text API Translated the English version to a Spanish version using a Watson language translator API Used python functions to create parameters for managing the wav and text files </description>
+    </item>
+    
+  </channel>
+</rss>
